@@ -19,15 +19,17 @@ Ciri-ciri utama:
 ✅ Luahan ditunjukkan dalam bentuk bubble animasi  
 ✅ Dark Mode toggle 🌙☀️  
 ✅ Butang Like ❤️ dengan bunyi 🔊  
-✅ Tapisan AI untuk elakkan kandungan sensitif/offensif  
 ✅ Reka bentuk ringkas, moden dan responsif  
 
 Dibina dengan **HTML, CSS, JavaScript, Node.js (Express), dan OpenAI Moderation API**.  
 Projek ini sesuai untuk sesi pembelajaran full-stack development & integrasi AI. 🚀
 
 
+# 💬 Luah — Anonymous Expression Platform
 
+![Demo Luah](demo.gif)
 
+A simple anonymous platform for expressing feelings...
 
 # HTML, CSS, JS (Auto Refresh)
 
